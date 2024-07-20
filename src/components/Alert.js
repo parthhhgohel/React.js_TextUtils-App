@@ -1,3 +1,5 @@
+// This is a Alert Component
+
 import React from 'react'
 
 export default function Alert(props) {

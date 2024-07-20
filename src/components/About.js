@@ -1,3 +1,5 @@
+// This is a About Section
+
 import React from 'react'
 
 export default function About(props) {
